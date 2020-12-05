@@ -11,4 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Deploy to github pages
-        run: yarn deploy
+        run: |
+          yarn install
+          yarn deploy
