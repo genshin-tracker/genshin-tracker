@@ -13,4 +13,6 @@ jobs:
       - name: Deploy to github pages
         run: |
           yarn install
+          git config --global user.email genshin-tracker@jcuneo.com
+          git config --global user.name GenshinTracker
           yarn deploy
