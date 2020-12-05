@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        name: Build
+        name: Checkout
+      - name: Build
         run: |
           yarn install
           yarn build- name: Deploy
