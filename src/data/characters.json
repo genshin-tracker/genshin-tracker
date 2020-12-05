@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Amber",
+    "rarity": "4",
+    "talent": "Freedom",
+    "vision": "Pyro",
+    "mainDps": {
+      "tier": "D",
+      "constelation": 0
+    },
+    "subDps": {
+      "tier": "C",
+      "constelation": 0
+    },
+    "utility": {
+      "tier": "D",
+      "constelation": 0
+    }
+  },
+  {
+    "name": "Barbara",
+    "rarity": "4",
+    "talent": "Freedom",
+    "vision": "Hydro",
+    "mainDps": {
+      "tier": "D",
+      "constelation": 0
+    },
+    "subDps": {
+      "tier": "D",
+      "constelation": 0
+    },
+    "utility": {
+      "tier": "A",
+      "constelation": 0
+    }
+  },
+  {
+    "name": "Beido",
+    "rarity": "4",
+    "talent": "Gold",
+    "vision": "Electro",
+    "mainDps": {
+      "tier": "B",
+      "constelation": 4
+    },
+    "subDps": {
+      "tier": "B",
+      "constelation": 0
+    },
+    "utility": {
+      "tier": "D",
+      "constelation": 0
+    }
+  },
+  {
+    "name": "Bennett",
+    "rarity": "4",
+    "talent": "Resistance",
+    "vision": "Pyro",
+    "mainDps": {
+      "tier": "D",
+      "constelation": 0
+    },
+    "subDps": {
+      "tier": "B",
+      "constelation": 1
+    },
+    "utility": {
+      "tier": "S",
+      "constelation": 1
+    }
+  },
+  {
+    "name": "Chongyun",
+    "rarity": "4",
+    "talent": "Diligence",
+    "vision": "Cryo",
+    "mainDps": {
+      "tier": "B",
+      "constelation": 6
+    },
+    "subDps": {
+      "tier": "A",
+      "constelation": 2
+    },
+    "utility": {
+      "tier": "B",
+      "constelation": 2
+    }
+  },
+  {
+    "name": "Diluc",
+    "rarity": "5",
+    "talent": "Resistance",
+    "vision": "Pyro",
+    "mainDps": {
+      "tier": "S",
+      "constelation": 0
+    },
+    "subDps": {
+      "tier": "D",
+      "constelation": 0
+    },
+    "utility": {
+      "tier": "D",
+      "constelation": 0
+    }
+  },
+  {
+    "name": "Fischl",
+    "rarity": "4",
+    "talent": "Resistance",
+    "vision": "Electro",
+    "mainDps": {
+      "tier": "A",
+      "constelation": 6
+    },
+    "subDps": {
+      "tier": "A",
+      "constelation": 0
+    },
+    "utility": {
+      "tier": "D",
+      "constelation": 0
+    }
+  }
+]

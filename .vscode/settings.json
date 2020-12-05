@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    ".eslintcache": true,
+    ".gitignore": true,
+    "tsconfig.json": false,
+    "yarn.lock": true,
+    "node_modules": true,
+    ".vscode": true
+  },
+  "explorerExclude.backup": null
+}
